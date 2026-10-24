@@ -1,0 +1,81 @@
+item_id,item_name,category,description,price_usd,calories,calories_from_fat,total_fat_g,saturated_fat_g,trans_fat_g
+MCD_BURG_Big_Mac_325,Big Mac,Burgers,Signature big mac served hot and fresh,6.55,530,177,27,8.9,1.6
+MCD_BURG_Quarter_Pounder_with_Cheese_180,Quarter Pounder with Cheese,Burgers,Signature quarter pounder with cheese served hot and fresh,7.03,515,188,26,8.6,3.8
+MCD_BURG_Cheeseburger_723,Cheeseburger,Burgers,Delicious cheeseburger from McDonald's,6.81,291,113,13,6.1,1.8
+MCD_BURG_Double_Cheeseburger_771,Double Cheeseburger,Burgers,Freshly made double cheeseburger,5.84,448,156,23,8.4,2.9
+MCD_BURG_McDouble_710,McDouble,Burgers,Signature mcdouble served hot and fresh,5.05,397,86,21,9.4,1.9
+MCD_BURG_Hamburger_991,Hamburger,Burgers,Delicious hamburger from McDonald's,6.11,257,99,10,4.1,0.8
+MCD_BURG_Bacon_McDouble_878,Bacon McDouble,Burgers,Delicious bacon mcdouble from McDonald's,5.49,435,156,22,8.0,1.1
+MCD_BURG_Quarter_Pounder_with_Cheese_Deluxe_330,Quarter Pounder with Cheese Deluxe,Burgers,Freshly made quarter pounder with cheese deluxe,6.63,577,126,31,13.1,4.5
+MCD_BURG_Big_Mac_with_Bacon_348,Big Mac with Bacon,Burgers,Signature big mac with bacon served hot and fresh,4.91,577,251,33,10.3,1.9
+MCD_BURG_Double_Quarter_Pounder_with_Cheese_995,Double Quarter Pounder with Cheese,Burgers,Freshly made double quarter pounder with cheese,4.37,783,373,48,22.7,2.7
+MCD_CHIC_McChicken_392,McChicken,Chicken & Sandwiches,Signature mcchicken served hot and fresh,4.33,410,134,19,8.6,1.4
+MCD_CHIC_Filet-O-Fish_513,Filet-O-Fish,Chicken & Sandwiches,Freshly made filet-o-fish,4.65,386,91,20,6.2,1.6
+MCD_CHIC_Crispy_Chicken_Sandwich_175,Crispy Chicken Sandwich,Chicken & Sandwiches,Delicious crispy chicken sandwich from McDonald's,6.16,453,163,23,8.4,1.7
+MCD_CHIC_Spicy_McChicken_218,Spicy McChicken,Chicken & Sandwiches,Classic McDonald's spicy mcchicken,7.26,412,192,22,8.5,2.3
+MCD_CHIC_Classic_Chicken_Sandwich_265,Classic Chicken Sandwich,Chicken & Sandwiches,Classic McDonald's classic chicken sandwich,4.98,426,179,20,8.5,1.5
+MCD_CHIC_Artisan_Grilled_Chicken_Sandwich_898,Artisan Grilled Chicken Sandwich,Chicken & Sandwiches,Classic McDonald's artisan grilled chicken sandwich,4.02,352,129,11,5.1,1.2
+MCD_CHIC_Southern_Style_Chicken_Sandwich_304,Southern Style Chicken Sandwich,Chicken & Sandwiches,Freshly made southern style chicken sandwich,7.23,457,203,23,7.7,3.3
+MCD_SALA_Side_Salad_694,Side Salad,Salads,Freshly made side salad,5.6,17,8,1,0.4,0.1
+MCD_SALA_Caesar_Salad_541,Caesar Salad,Salads,Classic McDonald's caesar salad,5.21,113,24,7,3.5,0.4
+MCD_SALA_Southwest_Salad_393,Southwest Salad,Salads,Classic McDonald's southwest salad,6.32,123,32,8,3.5,0.7
+MCD_SALA_Grilled_Chicken_Caesar_Salad_725,Grilled Chicken Caesar Salad,Salads,Signature grilled chicken caesar salad served hot and fresh,5.87,236,107,14,6.0,1.1
+MCD_SALA_Grilled_Chicken_Southwest_Salad_968,Grilled Chicken Southwest Salad,Salads,Freshly made grilled chicken southwest salad,5.82,270,63,14,5.3,1.3
+MCD_SNAC_French_Fries_(Small)_741,French Fries (Small),Snacks & Sides,Signature french fries (small) served hot and fresh,3.2,237,64,11,5.1,1.5
+MCD_SNAC_French_Fries_(Medium)_498,French Fries (Medium),Snacks & Sides,Signature french fries (medium) served hot and fresh,4.32,337,158,16,6.5,1.0
+MCD_SNAC_French_Fries_(Large)_960,French Fries (Large),Snacks & Sides,Freshly made french fries (large),3.81,481,163,23,10.3,2.4
+MCD_SNAC_Apple_Slices_358,Apple Slices,Snacks & Sides,Signature apple slices served hot and fresh,1.39,17,7,1,0.3,0.1
+MCD_SNAC_Mozzarella_Sticks_816,Mozzarella Sticks,Snacks & Sides,Signature mozzarella sticks served hot and fresh,4.06,251,69,14,6.4,1.6
+MCD_SNAC_Chicken_McNuggets_(4_piece)_915,Chicken McNuggets (4 piece),Snacks & Sides,Delicious chicken mcnuggets (4 piece) from McDonald's,3.53,163,80,9,2.7,0.7
+MCD_SNAC_Chicken_McNuggets_(6_piece)_576,Chicken McNuggets (6 piece),Snacks & Sides,Signature chicken mcnuggets (6 piece) served hot and fresh,3.26,251,82,16,4.8,1.5
+MCD_SNAC_Chicken_McNuggets_(10_piece)_669,Chicken McNuggets (10 piece),Snacks & Sides,Classic McDonald's chicken mcnuggets (10 piece),4.44,412,83,24,9.4,2.7
+MCD_SNAC_French_Fries_(Kids)_535,French Fries (Kids),Snacks & Sides,Classic McDonald's french fries (kids),1.85,113,56,4,1.6,0.5
+MCD_BREA_Egg_McMuffin_202,Egg McMuffin,Breakfast,Classic McDonald's egg mcmuffin,6.5,308,138,12,5.3,1.0
+MCD_BREA_Sausage_McMuffin_358,Sausage McMuffin,Breakfast,Delicious sausage mcmuffin from McDonald's,4.79,399,192,23,7.1,1.3
+MCD_BREA_Sausage_McMuffin_with_Egg_561,Sausage McMuffin with Egg,Breakfast,Signature sausage mcmuffin with egg served hot and fresh,7.1,482,227,31,13.6,2.0
+"MCD_BREA_Bacon,_Egg_AND_Cheese_Biscuit_133","Bacon, Egg & Cheese Biscuit",Breakfast,"Classic McDonald's bacon, egg & cheese biscuit",4.52,469,126,27,13.2,1.9
+MCD_BREA_Sausage_Biscuit_549,Sausage Biscuit,Breakfast,Classic McDonald's sausage biscuit,3.35,457,108,30,14.6,2.8
+MCD_BREA_Sausage_Biscuit_with_Egg_690,Sausage Biscuit with Egg,Breakfast,Classic McDonald's sausage biscuit with egg,7.7,546,115,35,14.7,4.9
+MCD_BREA_Hotcakes_933,Hotcakes,Breakfast,Signature hotcakes served hot and fresh,5.58,354,151,10,4.3,1.0
+MCD_BREA_Hotcakes_with_Sausage_394,Hotcakes with Sausage,Breakfast,Freshly made hotcakes with sausage,3.43,518,171,24,9.7,3.6
+MCD_BREA_McMuffin_with_Egg_White_525,McMuffin with Egg White,Breakfast,Classic McDonald's mcmuffin with egg white,3.13,280,126,9,3.3,0.5
+MCD_BREA_Deluxe_Breakfast_986,Deluxe Breakfast,Breakfast,Signature deluxe breakfast served hot and fresh,5.27,654,159,44,19.8,2.8
+MCD_BEVE_Coca-Cola_(Small)_607,Coca-Cola (Small),Beverages,Freshly made coca-cola (small),1.63,157,76,0,0.0,0.0
+MCD_BEVE_Coca-Cola_(Medium)_972,Coca-Cola (Medium),Beverages,Classic McDonald's coca-cola (medium),3.22,220,88,0,-0.5,-0.1
+MCD_BEVE_Coca-Cola_(Large)_129,Coca-Cola (Large),Beverages,Classic McDonald's coca-cola (large),2.99,315,67,1,0.3,0.1
+MCD_BEVE_Diet_Coke_(Small)_570,Diet Coke (Small),Beverages,Classic McDonald's diet coke (small),1.67,3,0,1,0.4,0.1
+MCD_BEVE_Sprite_(Small)_816,Sprite (Small),Beverages,Classic McDonald's sprite (small),2.41,147,42,0,0.0,0.0
+MCD_BEVE_Fanta_Orange_(Small)_416,Fanta Orange (Small),Beverages,Delicious fanta orange (small) from McDonald's,1.19,151,65,0,0.0,0.0
+MCD_BEVE_Minute_Maid_Apple_Juice_864,Minute Maid Apple Juice,Beverages,Classic McDonald's minute maid apple juice,2.56,92,42,1,0.3,0.1
+MCD_BEVE_Orange_Juice_724,Orange Juice,Beverages,Classic McDonald's orange juice,2.93,104,27,1,0.3,0.1
+MCD_BEVE_Iced_Tea_701,Iced Tea,Beverages,Signature iced tea served hot and fresh,2.85,4,1,0,-0.3,-0.1
+MCD_BEVE_Sweet_Tea_294,Sweet Tea,Beverages,Classic McDonald's sweet tea,2.44,125,61,0,0.0,0.0
+MCD_BEVE_Milk_(2%)_383,Milk (2%),Beverages,Delicious milk (2%) from McDonald's,2.45,130,59,4,1.8,0.3
+MCD_BEVE_Chocolate_Milk_625,Chocolate Milk,Beverages,Classic McDonald's chocolate milk,2.25,165,62,4,1.5,0.5
+MCD_DESS_McFlurry_with_MANDMs_381,McFlurry with M&M's,Desserts,Freshly made mcflurry with m&m's,2.11,639,247,24,10.3,1.3
+MCD_DESS_McFlurry_with_Oreo_508,McFlurry with Oreo,Desserts,Signature mcflurry with oreo served hot and fresh,4.97,626,203,25,9.7,3.2
+MCD_DESS_McFlurry_with_Chocolate_Chip_520,McFlurry with Chocolate Chip,Desserts,Delicious mcflurry with chocolate chip from McDonald's,2.87,608,186,26,10.3,1.5
+MCD_DESS_Vanilla_Cone_723,Vanilla Cone,Desserts,Delicious vanilla cone from McDonald's,4.87,209,100,5,2.0,0.3
+MCD_DESS_Chocolate_Shake_(Small)_838,Chocolate Shake (Small),Desserts,Classic McDonald's chocolate shake (small),1.67,529,157,14,6.6,1.5
+MCD_DESS_Strawberry_Shake_(Small)_146,Strawberry Shake (Small),Desserts,Classic McDonald's strawberry shake (small),1.59,529,140,15,6.5,1.5
+MCD_DESS_Vanilla_Shake_(Small)_119,Vanilla Shake (Small),Desserts,Signature vanilla shake (small) served hot and fresh,1.74,506,170,15,4.9,1.5
+MCD_DESS_Apple_Pie_863,Apple Pie,Desserts,Classic McDonald's apple pie,3.42,238,71,10,3.8,1.5
+MCD_DESS_Chocolate_Chip_Cookie_575,Chocolate Chip Cookie,Desserts,Signature chocolate chip cookie served hot and fresh,1.57,160,68,8,3.8,0.7
+MCD_DESS_Sundae_(Caramel)_729,Sundae (Caramel),Desserts,Delicious sundae (caramel) from McDonald's,4.49,340,128,9,3.5,1.0
+MCD_DESS_Sundae_(Hot_Fudge)_636,Sundae (Hot Fudge),Desserts,Signature sundae (hot fudge) served hot and fresh,3.44,321,114,11,4.0,1.1
+MCD_MCCA_Latte_(Small)_183,Latte (Small),McCafé,Classic McDonald's latte (small),2.64,139,52,5,2.1,0.6
+MCD_MCCA_Latte_(Medium)_118,Latte (Medium),McCafé,Classic McDonald's latte (medium),3.21,200,61,6,2.7,0.4
+MCD_MCCA_Cappuccino_(Small)_285,Cappuccino (Small),McCafé,Freshly made cappuccino (small),2.57,115,51,3,0.9,0.4
+MCD_MCCA_Mocha_(Small)_896,Mocha (Small),McCafé,Classic McDonald's mocha (small),1.8,201,63,7,2.5,0.9
+MCD_MCCA_Caramel_Macchiato_(Small)_193,Caramel Macchiato (Small),McCafé,Signature caramel macchiato (small) served hot and fresh,3.77,189,91,5,2.0,0.4
+MCD_MCCA_Hot_Chocolate_(Small)_812,Hot Chocolate (Small),McCafé,Signature hot chocolate (small) served hot and fresh,3.94,200,89,7,2.6,0.6
+MCD_MCCA_Americano_(Small)_213,Americano (Small),McCafé,Delicious americano (small) from McDonald's,3.26,7,3,0,-0.3,-0.1
+MCD_MCCA_Iced_Coffee_(Small)_499,Iced Coffee (Small),McCafé,Delicious iced coffee (small) from McDonald's,1.73,96,44,4,1.4,0.2
+MCD_MCCA_Iced_Latte_(Small)_812,Iced Latte (Small),McCafé,Signature iced latte (small) served hot and fresh,4.19,118,40,4,1.3,0.3
+MCD_MCCA_Iced_Mocha_(Small)_986,Iced Mocha (Small),McCafé,Delicious iced mocha (small) from McDonald's,1.85,174,69,5,2.3,0.7
+MCD_MCCA_Caramel_Frappé_(Small)_428,Caramel Frappé (Small),McCafé,Classic McDonald's caramel frappé (small),3.73,283,65,10,4.9,1.0
+MCD_MCCA_Mocha_Frappé_(Small)_246,Mocha Frappé (Small),McCafé,Delicious mocha frappé (small) from McDonald's,2.47,299,135,9,3.5,0.9
+MCD_HAPP_Happy_Meal_Cheeseburger_355,Happy Meal Cheeseburger,Happy Meal,Classic McDonald's happy meal cheeseburger,5.24,457,223,20,9.8,1.1
+MCD_HAPP_Happy_Meal_Chicken_McNuggets_(4_piece)_929,Happy Meal Chicken McNuggets (4 piece),Happy Meal,Delicious happy meal chicken mcnuggets (4 piece) from McDonald's,5.99,422,170,22,7.7,2.1
+MCD_HAPP_Happy_Meal_Hamburger_578,Happy Meal Hamburger,Happy Meal,Classic McDonald's happy meal hamburger,6.41,417,183,16,5.3,1.9
+MCD_HAPP_Happy_Meal_Apple_Slices_886,Happy Meal Apple Slices,Happy Meal,Freshly made happy meal apple slices,5.12,172,84,9,4.1,1.2
